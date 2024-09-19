@@ -1,1 +1,1 @@
-# Yap-lara--zel-De-i-kenler
+# Yapilara-Ozel-Degiskenler
